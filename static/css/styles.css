@@ -1659,7 +1659,6 @@ div#particles-box {
 .portfolio-col .hover {
     position: absolute;
     bottom: 0;
-    background: rgba(255, 255, 255, 0.3);
     left: 0;
     right: 0;
     padding: 15px;
