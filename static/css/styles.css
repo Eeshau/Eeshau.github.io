@@ -219,6 +219,12 @@ img {
   letter-spacing: 1px;
 }
 
+
+.section-title-01 p a {
+  color: #09c3b3;
+}
+
+
 @media(max-width: 991px) {
   .section-title-01 {
     margin-bottom: 50px;
@@ -1734,7 +1740,6 @@ div#particles-box {
   border-radius: 2px;
   font-weight: 500;
   text-transform: uppercase;
-  border: 1px solid #ddd;
   letter-spacing: 1px;
   font-weight: 600;
 }
